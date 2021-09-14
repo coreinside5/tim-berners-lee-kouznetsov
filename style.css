@@ -1,12 +1,23 @@
-@import "reset.css";
+/*@import "reset.css";*/
 div {
-    background-color: lightgrey;
-    width: 300px;
-    border: 15px solid #008000;
+    background-color: #ffffff;
+    width: 450px;
     padding: 50px;
     margin: 20px;
     margin-right: auto;
     margin-left: auto;
     word-wrap: break-word;
 }
-body{}
+body{
+    background-color: #e9e3e3;
+}
+.roundimg {
+    border-radius: 50%;
+  }
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
