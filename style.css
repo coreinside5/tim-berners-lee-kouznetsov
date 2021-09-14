@@ -1,0 +1,12 @@
+@import "reset.css";
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid #008000;
+    padding: 50px;
+    margin: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    word-wrap: break-word;
+}
+body{}
