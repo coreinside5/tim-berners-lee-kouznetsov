@@ -11,13 +11,20 @@ div {
 body{
     background-color: #e9e3e3;
 }
-.roundimg {
+.imground {
+    border: 5px solid transparent;
     border-radius: 50%;
+    border-color: gray;
+    /*border-image-width: 10px;*/
   }
-.center 
+.imgcenter 
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+}
+.titlecenterred{
+    text-align: center;
+    color: rgb(223, 47, 47);
+    font-weight: bolder;
 }
