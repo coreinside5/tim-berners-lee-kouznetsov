@@ -1,5 +1,5 @@
 /*@import "reset.css";*/
-div {
+.myblock {
     background-color: #ffffff;
     width: 450px;
     padding: 50px;
@@ -27,4 +27,8 @@ body{
     text-align: center;
     color: rgb(223, 47, 47);
     font-weight: bolder;
+}
+.titlecentergray{
+    text-align: center;
+    color: gray;
 }
