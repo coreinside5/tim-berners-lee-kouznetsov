@@ -32,3 +32,13 @@ body{
     text-align: center;
     color: gray;
 }
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.box div {
+    width: 100px;
+    height: 100px;
+}
