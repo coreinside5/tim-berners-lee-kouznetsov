@@ -68,3 +68,13 @@ ul#myRow li {
     color: grey;
     text-decoration: none;
 }
+.boxmargins{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.imgsize{
+    width: 100px;
+    height: 150px;
+}
