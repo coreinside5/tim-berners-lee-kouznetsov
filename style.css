@@ -61,3 +61,10 @@ ul#myRow li {
     display:inline-block;
     width: auto;
   }
+.grayscale{
+    color: gray;
+}
+.linknoformat{
+    color: grey;
+    text-decoration: none;
+}
