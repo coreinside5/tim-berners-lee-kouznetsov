@@ -57,3 +57,7 @@ body{
   margin-left: auto;
   margin-right: auto;
 }
+ul#myRow li {
+    display:inline-block;
+    width: auto;
+  }
