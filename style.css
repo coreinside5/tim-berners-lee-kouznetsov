@@ -1,12 +1,14 @@
 /*@import "reset.css";*/
 .myblock {
     background-color: #ffffff;
-    width: 450px;
+    width: 500px;
     padding: 50px;
     margin: 20px;
     margin-right: auto;
     margin-left: auto;
     word-wrap: break-word;
+    border-radius: 5px;
+    box-shadow: 3px 3px lightgray;
 }
 body{
     background-color: #e9e3e3;
@@ -65,6 +67,10 @@ ul#myRow li {
     display:inline-block;
     width: auto;
   }
+.liinline{
+    display:inline-block;
+    width: auto;
+}
 .grayscale{
     color: gray;
 }
