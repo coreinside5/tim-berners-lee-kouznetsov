@@ -10,6 +10,7 @@
 }
 body{
     background-color: #e9e3e3;
+    font-family: 'Open Sans', sans-serif;
 }
 .imground {
     border: 5px solid transparent;
@@ -26,7 +27,8 @@ body{
 .titlecenterred{
     text-align: center;
     color: rgb(223, 47, 47);
-    font-weight: bolder;
+    font-weight: 900;
+    
 }
 .titlecentergray{
     text-align: center;
@@ -56,6 +58,7 @@ body{
   text-decoration: none;
   margin-left: auto;
   margin-right: auto;
+  font-size: 12px;
 }
 ul#myRow li {
     display:inline-block;
@@ -77,4 +80,7 @@ ul#myRow li {
 .imgsize{
     width: 100px;
     height: 150px;
+}
+h2 span{
+  background-color: hsl(0, 3%, 83%);
 }
