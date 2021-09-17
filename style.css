@@ -11,6 +11,7 @@
 body{
     background-color: #e9e3e3;
     font-family: 'Open Sans', sans-serif;
+    color: hsl(0, 2%, 63%);
 }
 .imground {
     border: 5px solid transparent;
@@ -72,8 +73,8 @@ ul#myRow li {
     text-decoration: none;
 }
 .boxmargins{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     margin-left: 5px;
     margin-right: 5px;
 }
@@ -83,4 +84,7 @@ ul#myRow li {
 }
 h2 span{
   background-color: hsl(0, 3%, 83%);
+}
+.ulunstiled{
+  list-style-type: none;
 }
